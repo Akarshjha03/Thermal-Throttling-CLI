@@ -2,10 +2,10 @@
 
 ![Project Banner](assets/banner.svg)
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/akars/ThermalThrottlingAnalyzer)](https://goreportcard.com/report/github.com/akars/ThermalThrottlingAnalyzer)
+![CLI](https://img.shields.io/badge/CLI-Cobra-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Go Version](https://img.shields.io/github/go-mod/go-version/akars/ThermalThrottlingAnalyzer)
+![Go](https://img.shields.io/badge/go-1.21-blue?logo=go)
 
 **Thermal Throttling Analyzer (TTA)** is a powerful, lightweight, and Windows-only CLI diagnostic tool built in Go. It empowers developers, gamers, and power users to detect, analyze, and explain CPU thermal throttling events in real-time.
 
@@ -38,7 +38,7 @@ Modern CPUs invoke thermal throttling to protect themselves from overheating, bu
 You can build the project from source (requires Go 1.21+):
 
 ```bash
-git clone https://github.com/yourusername/ThermalThrottlingAnalyzer.git
+git clone https://github.com/Akarshjha03/ThermalThrottlingAnalyzer.git
 cd ThermalThrottlingAnalyzer
 go mod tidy
 go build -o tta.exe ./cmd/tta
@@ -47,7 +47,7 @@ go build -o tta.exe ./cmd/tta
 Or install directly via `go install`:
 
 ```bash
-go install github.com/yourusername/ThermalThrottlingAnalyzer/cmd/tta@latest
+go install github.com/Akarshjha03/ThermalThrottlingAnalyzer/cmd/tta@latest
 ```
 
 ---
