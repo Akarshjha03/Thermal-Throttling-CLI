@@ -2,6 +2,12 @@
 
 ![Project Banner](assets/banner.svg)
 
+<!-- Place your demo GIF here -->
+![Demo Animation](assets/demo.gif)
+
+<!-- Place your screenshot preview here -->
+![Dashboard Preview](assets/preview.png)
+
 ![CLI](https://img.shields.io/badge/CLI-Cobra-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -35,7 +41,15 @@ Modern CPUs invoke thermal throttling to protect themselves from overheating, bu
 
 ## 📦 Installation
 
-You can build the project from source (requires Go 1.21+):
+### Option 1: Download Binary (Recommended)
+Download the latest pre-built `.exe` from the [Releases Page](https://github.com/Akarshjha03/ThermalThrottlingAnalyzer/releases).
+
+1.  Download `tta.exe`.
+2.  Open your terminal in the download folder.
+3.  Run `.\tta.exe`.
+
+### Option 2: Build from Source
+Requirements: Go 1.21+
 
 ```bash
 git clone https://github.com/Akarshjha03/ThermalThrottlingAnalyzer.git
@@ -44,8 +58,7 @@ go mod tidy
 go build -o tta.exe ./cmd/tta
 ```
 
-Or install directly via `go install`:
-
+### Option 3: Go Install
 ```bash
 go install github.com/Akarshjha03/ThermalThrottlingAnalyzer/cmd/tta@latest
 ```
@@ -104,5 +117,9 @@ Please ensure you run `go fmt ./...` before submitting!
 ## ⭐ Support
 
 If you find this project useful, please consider **leaving a star** on GitHub! It helps us know you appreciate the work and motivaes further development.
+
+## 🙏 Acknowledgments
+
+-   **ANSI Fire Animation**: Inspired by and adapted from [gh-yule-log](https://github.com/leereilly/gh-yule-log) by Lee Reilly.
 
 Made with ❤️ in Go.
