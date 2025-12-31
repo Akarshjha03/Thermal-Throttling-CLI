@@ -11,7 +11,9 @@
 
 ![Dashboard Preview](assets/preview.png)
 <!-- Place your demo GIF here -->
-![Demo Animation](./assets/Thermal.gif)
+![Demo Animation](./Throttle.gif)
+
+
 
 
 ---
