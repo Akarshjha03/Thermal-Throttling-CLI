@@ -14,9 +14,6 @@
 ![Demo Animation](https://raw.githubusercontent.com/Akarshjha03/ThermalThrottlingAnalyzer/main/assets/Throttle.gif)
 
 
-
-
-
 ---
 
 ## 🚀 Project Idea & Use Cases
