@@ -12,8 +12,11 @@
   <img src="https://img.shields.io/badge/go-1.21-blue?logo=go" />
 </p>
 
+<p align="center">
+<b>Thermal Throttling Analyzer (TTA)</b> is a powerful, lightweight, and Windows-only CLI diagnostic tool built in Go. It empowers developers, gamers, and power users to detect, analyze, and explain CPU thermal throttling events in real-time.
+</p>
 
-**Thermal Throttling Analyzer (TTA)** is a powerful, lightweight, and Windows-only CLI diagnostic tool built in Go. It empowers developers, gamers, and power users to detect, analyze, and explain CPU thermal throttling events in real-time.
+---
 
 ![Dashboard Preview](assets/preview.png)
 
