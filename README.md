@@ -1,4 +1,4 @@
-# Thermal Throttling Analyzer
+<h1 align="center"> Thermal Throttling Analyzer </h1>
 
 ![Project Banner](assets/banner.svg)
 
