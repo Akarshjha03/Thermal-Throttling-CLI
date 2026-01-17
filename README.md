@@ -1,6 +1,9 @@
 <h1 align="center"> Thermal Throttling Analyzer </h1>
 
-![Project Banner](assets/banner.svg)
+<p align="center">
+  <img src="assets/banner.svg" alt="Project Banner" />
+</p>
+
 
 ![CLI](https://img.shields.io/badge/CLI-Cobra-green)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue)
